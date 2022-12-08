@@ -1,0 +1,20 @@
+Puteri Munajjah Az-Zahraa Binti Azhar;2020226428;BA114;3;piano;f;500;true
+Sofea Zakiah Binti Shamsul Akmal;2020498032;CS110;3;guitar;f;300;true
+Pg Muhammad Ariff Danial Bin Pg Zamri;2019561394;AC110;4;drum;m;200;true
+Muhammad Zaki Amran Bin Muhd Syarif;2021879528;CS143;2;guitar;m;300;true
+Nur Amalina Aqilah Binti Ahmad Mustafa;2019692816;IM110;2;guitar;f;300;false
+Nursyafiqah Amira Binti Mohd Asmawi;2020890214;BA111;3;drum;f;200;true
+Muhammad Afiq Danial Bin Muhammad Azri;2018340721;AC110;5;guitar;m;300;true
+Nur Diana Khairina Binti Ahmed Juhaini;2021237195;BA119;2;piano;f;500;false
+Siti Nurul Fazliana Binti Mohd Kassim;2019382073;CS110;4;drum;f;200;true
+Syed Nazim Izral Bin Syed Othman Ali;2022987324;AC110;1;guitar;m;300;true
+Nurfarhana Nisa Binti Abdul Rahman;2022601842;IM110;1;p;female;500;false
+Nurul Haziqah Binti Imran Paiman;2018692307;CS143;5;drum;f;200;true
+Ahmad Azrul Adli Bin Khairul Nizam;2020892361;AC110;3;drum;m;200;false
+Putera Muhd Syarif Bin Raja Abdullah;2022391438;IM110;1;guitar;m;300;false
+Mohd Nubair Zuhnun Bin Kamal Irfan;2019624917;CS143;4;piano;m;500;true
+Ainnur Asmawati Binti Zainun Ariffin;2020812944; BA119;3;piano;f;500;false
+Nurul Syaya Syahirah Binti Mohd Khamis;2018448139;BA114;5;guitar;f;300;false
+Ainul Nabeel Naufal Bin Muhaimin;2019713402;CS143;4;drum;m;200;false
+Siti Nur Husna Binti Ahmad Zaidi;2020671340;BA111;3;piano;f;500;true
+Muhammad Zakwan Fadhli Bin Zulkarnian;2021841248;IM110;2;drum;m;300;false
